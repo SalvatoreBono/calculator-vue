@@ -1,0 +1,25 @@
+.structure-calculator {
+    width: 350px;
+    margin: auto;
+    border: 1px solid rgb(157, 157, 157);
+}
+
+.bg-top-calculator {
+    background-color: rgb(51, 51, 51);
+    font-size: 2.5rem;
+}
+
+.mid-calculator>div {
+    font-size: 2.5rem;
+    border: 1px solid rgb(157, 157, 157);
+}
+
+.btn-calculator {
+    width: calc(100% / 4);
+    border-radius: 0;
+}
+
+.btn-calculator-0 {
+    width: calc(100% / 2);
+    border-radius: 0;
+}
